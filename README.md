@@ -1,8 +1,11 @@
 # nginx-fancyindex-theme
 
-Copy ```fancyindex-theme``` to web root directory;
+### Usage
 
-Nginx configure
+Move the ```fancyindex-theme/``` folder to the root of the site directory.
+
+### Nginx configuration
+
 ```
 server {
 
