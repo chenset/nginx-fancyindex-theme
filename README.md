@@ -20,5 +20,6 @@ server {
   fancyindex_name_length 255;
   
   ...
+}
   
 ```
